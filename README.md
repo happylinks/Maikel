@@ -2,6 +2,7 @@
 
 ```
 yarn install
-yarn install -g webpack-dev-server
+yarn global add webpack-dev-server
+
 webpack-dev-server
 ```
